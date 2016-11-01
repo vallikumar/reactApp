@@ -1,0 +1,28 @@
+{
+  "name": "reactapp",
+  "version": "1.0.1",
+  "description": "Test Hello World",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vallikumar/reacthello.git"
+  },
+  "keywords": [
+    "myreact"
+  ],
+  "author": "Vallikumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vallikumar/reacthello/issues"
+  },
+  "homepage": "https://github.com/vallikumar/reacthello",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
